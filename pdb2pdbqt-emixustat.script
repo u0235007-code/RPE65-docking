@@ -1,0 +1,12 @@
+#!/bin/tcsh
+echo "# script for preparing dietary lutein molecules as ligand pdbqt files "
+set path_utilities = /Users/Shared/MGLTools/1.5.7/MGLToolsPckgs/AutoDockTools/Utilities24 
+set path_python = /Users/Shared/MGLTools/1.5.7/bin
+set path_ligand = /Users/Per/research/docking/dietary_lutein_2025/RPE65_dietary_lutein/LIGANDS/emixustat
+foreach ligand_name ( `cat emixustat_rootnames.csv` )
+   echo -n "processing ligand "
+   echo "$ligand_name"
+   grep -v -f exclude $ligand_name".pdb" | grep -f search $ligand_name".pdb" > $ligand_name"_emixustat.pdb" 
+   $path_python/pythonsh $path_utilities/prepare_ligand4.py -l $ligand_name"_emixustat.pdb" -A hydrogens -U nphs_lps -Z
+end
+echo "# last line of the script - MPH 30-May-2019  - MPH 25-May-2021 - MPH 06-June-2021 - MPH 14-October-2021 - MPH 17-February-2022 MPH 02-September 2025"
