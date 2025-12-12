@@ -1,0 +1,65 @@
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C3_28  and  O3_32 
+REMARK    1  A    between atoms: C6_23  and  C7_1 
+REMARK       I    between atoms: C8_2  and  C9_3 
+REMARK       I    between atoms: C10_4  and  C11_5 
+REMARK       I    between atoms: C12_6  and  C13_7 
+REMARK       I    between atoms: C14_8  and  C15_9 
+REMARK       I    between atoms: C23_39  and  O23_43 
+REMARK    2  A    between atoms: C26_34  and  C27_12 
+REMARK       I    between atoms: C28_13  and  C29_14 
+REMARK       I    between atoms: C30_15  and  C31_16 
+REMARK       I    between atoms: C32_17  and  C33_18 
+REMARK       I    between atoms: C34_19  and  C35_20 
+ROOT
+HETATM    1  C7  LUT 6 317       5.350  -1.007  87.373  1.00 88.05     0.009 C 
+HETATM    2  C8  LUT 6 317       5.654  -2.205  86.877  1.00 88.38     0.007 C 
+HETATM    3  C9  LUT 6 317       6.185  -3.287  87.727  1.00 88.50    -0.062 C 
+HETATM    4  C10 LUT 6 317       6.471  -4.460  87.148  1.00 89.92     0.007 C 
+HETATM    5  C11 LUT 6 317       7.006  -5.612  87.869  1.00 90.53     0.001 C 
+HETATM    6  C12 LUT 6 317       7.272  -6.697  87.146  1.00 91.02     0.007 C 
+HETATM    7  C13 LUT 6 317       7.826  -7.936  87.722  1.00 91.35    -0.062 C 
+HETATM    8  C14 LUT 6 317       8.295  -8.862  86.873  1.00 92.63     0.007 C 
+HETATM    9  C15 LUT 6 317       8.887 -10.123  87.307  1.00 93.76     0.001 C 
+HETATM   10  C19 LUT 6 317       6.393  -3.076  89.198  1.00 87.10     0.048 C 
+HETATM   11  C20 LUT 6 317       7.856  -8.148  89.206  1.00 90.38     0.048 C 
+HETATM   12  C27 LUT 6 317      13.614 -19.690  85.731  1.00 95.22    -0.016 C 
+HETATM   13  C28 LUT 6 317      13.172 -18.536  86.221  1.00 92.77     0.003 C 
+HETATM   14  C29 LUT 6 317      12.508 -17.506  85.399  1.00 90.37    -0.062 C 
+HETATM   15  C30 LUT 6 317      12.215 -16.347  86.001  1.00 97.58     0.007 C 
+HETATM   16  C31 LUT 6 317      11.573 -15.211  85.350  1.00 95.39     0.001 C 
+HETATM   17  C32 LUT 6 317      11.187 -14.244  86.175  1.00 92.75     0.007 C 
+HETATM   18  C33 LUT 6 317      10.535 -12.991  85.763  1.00 90.45    -0.062 C 
+HETATM   19  C34 LUT 6 317      10.010 -12.199  86.713  1.00 98.23     0.007 C 
+HETATM   20  C35 LUT 6 317       9.376 -10.931  86.367  1.00 96.59     0.001 C 
+HETATM   21  C39 LUT 6 317      12.180 -17.744  83.954  1.00 90.75     0.048 C 
+HETATM   22  C40 LUT 6 317      10.483 -12.603  84.315  1.00 90.73     0.048 C 
+ENDROOT
+BRANCH   1  23
+HETATM   23  C6  LUT 6 317       4.820   0.045  86.481  1.00 87.83    -0.048 C 
+HETATM   24  C1  LUT 6 317       5.763   1.106  85.950  1.00 89.78    -0.018 C 
+HETATM   25  C16 LUT 6 317       6.640   1.572  87.105  1.00 89.80     0.020 C 
+HETATM   26  C17 LUT 6 317       6.655   0.481  84.885  1.00 89.92     0.020 C 
+HETATM   27  C2  LUT 6 317       5.062   2.328  85.347  1.00 90.48     0.045 C 
+HETATM   28  C3  LUT 6 317       3.536   2.316  85.323  1.00 89.65     0.123 C 
+HETATM   29  C4  LUT 6 317       3.015   0.916  85.064  1.00 88.26     0.066 C 
+HETATM   30  C5  LUT 6 317       3.530   0.027  86.158  1.00 86.93    -0.074 C 
+HETATM   31  C18 LUT 6 317       2.564  -0.863  86.882  1.00 86.44     0.044 C 
+HETATM   32  O3  LUT 6 317       3.062   3.175  84.279  1.00 90.37    -0.395 OA
+ATOM     33  H3  LUT 6 317       2.112   3.168  84.264  1.00  0.00     0.210 HD
+ENDBRANCH   1  23
+BRANCH  12  34
+HETATM   34  C26 LUT 6 317      14.285 -20.643  86.695  1.00 96.60     0.044 C 
+HETATM   35  C21 LUT 6 317      15.713 -20.905  86.229  1.00 97.08    -0.035 C 
+HETATM   36  C36 LUT 6 317      15.724 -21.298  84.757  1.00 96.67     0.016 C 
+HETATM   37  C37 LUT 6 317      16.526 -19.627  86.392  1.00 96.89     0.016 C 
+HETATM   38  C22 LUT 6 317      16.359 -21.989  87.080  1.00 98.39     0.045 C 
+HETATM   39  C23 LUT 6 317      15.574 -23.296  87.099  1.00 99.72     0.142 C 
+HETATM   40  C24 LUT 6 317      14.088 -23.052  87.236  1.00 98.91     0.007 C 
+HETATM   41  C25 LUT 6 317      13.504 -21.920  86.819  1.00 98.05    -0.077 C 
+HETATM   42  C38 LUT 6 317      12.043 -21.935  86.478  1.00 98.35     0.044 C 
+HETATM   43  O23 LUT 6 317      16.020 -24.086  88.209  1.00 90.07    -0.392 OA
+ATOM     44  H23 LUT 6 317      15.531 -24.900  88.221  1.00  0.00     0.210 HD
+ENDBRANCH  12  34
+TORSDOF 12
