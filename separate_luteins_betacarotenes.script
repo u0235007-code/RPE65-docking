@@ -1,0 +1,147 @@
+#!/bin/tcsh
+echo "# script for separating lutein and beta carotene into individual pdb files "
+@ line_start = 2
+@ line_end = 41
+foreach carotene_name ( `cat root_names_3wu2.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "3wu2_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 40
+   @ line_end += 40
+end
+@ line_start = 2
+@ line_end = 41
+foreach carotene_name ( `cat root_names_4il6.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "4il6_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 40
+   @ line_end += 40
+end
+@ line_start = 2
+@ line_end = 81
+foreach carotene_name ( `cat root_names_4ub6.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "4ub6_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 80
+   @ line_end += 80
+end
+@ line_start = 2
+@ line_end = 41
+foreach carotene_name ( `cat root_names_5b5e.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "5b5e_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 40
+   @ line_end += 40
+end
+@ line_start = 2
+@ line_end = 41
+foreach carotene_name ( `cat root_names_5mx2.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "5mx2_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 40
+   @ line_end += 40
+end
+@ line_start = 2
+@ line_end = 81
+foreach carotene_name ( `cat root_names_5v2c.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "5v2c_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 80
+   @ line_end += 80
+end
+@ line_start = 2
+@ line_end = 81
+foreach carotene_name ( `cat root_names_6jlj.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "6jlj_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 80
+   @ line_end += 80
+end
+@ line_start = 2
+@ line_end = 41
+foreach carotene_name ( `cat root_names_6w1o.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "6w1o_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 96
+   @ line_end += 96
+end
+@ line_start = 1
+@ line_end = 40
+foreach carotene_name ( `cat root_names_7d1u.csv` )
+   echo -n "processing beta carotene "
+   echo "$carotene_name"
+   sed -n "$line_start","$line_end"p "7d1u_betacaroteneBCR_notrefined.pdb" > $carotene_name"_bcr.pdb"
+   @ line_start += 40
+   @ line_end += 40
+end
+@ line_start = 2
+@ line_end = 43
+foreach lutein_name ( `cat root_names_1rwt.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "1rwt_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+   @ line_start += 42
+   @ line_end += 42
+end
+@ line_start = 2
+@ line_end = 43
+foreach lutein_name ( `cat root_names_3pl9.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "3pl9_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+   @ line_start += 42
+   @ line_end += 42
+end
+@ line_start = 2
+@ line_end = 85
+foreach lutein_name ( `cat root_names_4lcz.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "4lcz_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+    @ line_start += 84
+   @ line_end += 84
+end
+@ line_start = 2
+@ line_end = 85
+foreach lutein_name ( `cat root_names_4xk8.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "4xk8_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+    @ line_start += 84
+   @ line_end += 84
+end
+@ line_start = 1
+@ line_end = 42
+foreach lutein_name ( `cat root_names_5xnl.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "5xnl_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+   @ line_start += 42
+   @ line_end += 42
+end
+@ line_start = 1
+@ line_end = 42
+foreach lutein_name ( `cat root_names_6ijj.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "6ijj_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+   @ line_start += 42
+   @ line_end += 42
+end
+@ line_start = 1
+@ line_end = 42
+foreach lutein_name ( `cat root_names_6kac.csv` )
+   echo -n "processing lutein "
+   echo "$lutein_name"
+   sed -n "$line_start","$line_end"p "6kac_luteinLUT_notrefined.pdb" > $lutein_name"_lut.pdb"
+   @ line_start += 42
+   @ line_end += 42
+end
+echo "# last line of the tcsh script - MPH 30-May-2019 – MPH 30-May-2021"

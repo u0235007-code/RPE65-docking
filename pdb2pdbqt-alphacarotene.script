@@ -1,0 +1,14 @@
+#!/bin/tcsh
+echo "# script for preparing alpha carotene molecules from lutein as ligand pdbqt files "
+set path_utilities = /Applications/Darwin/mgltools_i86Darwin9_1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24 
+set path_python = /Applications/Darwin/mgltools_i86Darwin9_1.5.6/bin
+set path_ligand = /Users/Pappa/Docking/beta_carotene
+foreach ligand_name ( `cat root_names_luteinLUT` )
+   echo -n "processing carotene "
+   echo "$ligand_name"
+   grep -v -f exclude_alphacarotene $path_ligand/$ligand_name"_lut.pdb" > temp_8ct 
+   grep -f search temp_8ct | cut -c 21-78 > temp2
+   paste -d '\' alphacarotene_atomidresid.pdb temp2 > $ligand_name"_8ct2.pdb" 
+   $path_python/pythonsh $path_utilities/prepare_ligand4.py -l $ligand_name"_8ct2.pdb" -A hydrogens -U nphs_lps -Z
+end
+echo "# last line of the vina script - MPH 30-May-2019  - MPH 25-May-2021 - MPH 08-June-2021"

@@ -1,0 +1,159 @@
+/0
+r2
+/REMARK       I    between atoms: C6_6  and  C7_7
+10dd
+?REMARK  status
+:r header_bcr5.pdbqt
+/ENDROOT
+:r branch5_bcr.pdbqt
+?C1  BCR
+6dd
+/BRANCH   1  23
+p
+?C33 BCR
+3dd
+/ENDBRANCH   1  23
+P
+/C6  BCR
+dd
+?BRANCH   1  23
+p
+?C25 BCR
+6dd
+/BRANCH  19  32
+p
+?C38 BCR
+3dd
+/ENDBRANCH  19  32
+P
+?7  C7 
+r1
+/8  C8 
+r2
+/9  C9 
+r3
+/10  C10
+r 
+/0  C10
+r4
+/11  C11
+r 
+/1  C11
+r5
+/15  C34
+r 
+/5  C34
+r6
+/16  C12
+r 
+/6  C12
+r7
+/17  C13
+r 
+/7  C13
+r8
+/18  C14
+r 
+/8  C14
+r9
+/9  C15
+r0
+/20  C16
+r1
+/0  C16
+r1
+/21  C17
+r1
+/1  C17
+r2
+/22  C18
+r1
+/2  C18
+r3
+/23  C19
+r1
+/3  C19
+r4
+/24  C20
+r1
+/4  C20
+r5
+/25  C21
+r1
+/5  C21
+r6
+/26  C22
+r1
+/6  C22
+r7
+/27  C23
+r1
+/7  C23
+r8
+/28  C24
+r1
+/8  C24
+r9
+/35  C35
+r2
+/5  C35
+r0
+/36  C36
+r2
+/6  C36
+r1
+/37  C37
+r2
+/7  C37
+r2
+/ 6  C6
+r2
+/6  C6
+r3
+/ 1  C1 
+r2
+/1  C1 
+r4
+/ 2  C2 
+r2
+/2  C2 
+r5
+/ 3  C3 
+r2
+/3  C3 
+r6
+/ 4  C4 
+r2
+/4  C4 
+r7
+/ 5  C5 
+r2
+/5  C5 
+r8
+/12  C33
+r2
+/2  C33
+r9
+/13  C31
+r3
+/3  C31
+r0
+/14  C32
+r3
+/4  C32
+r1
+/29  C25
+r3
+/9  C25
+r2
+/0  C26
+r3
+/1  C27
+r4
+/2  C28
+r5
+/3  C29
+r6
+/4  C30
+r7
+:wq
