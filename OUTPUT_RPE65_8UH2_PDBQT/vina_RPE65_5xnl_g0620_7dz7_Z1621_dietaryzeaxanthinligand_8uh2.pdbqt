@@ -1,0 +1,378 @@
+MODEL 1
+REMARK VINA RESULT:    -8.628      0.000      0.000
+REMARK INTER + INTRA:         -11.427
+REMARK INTER:                  -8.628
+REMARK INTRA:                  -2.799
+REMARK UNBOUND:                -2.799
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C3_3  and  O3_21 
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_12  and  C13_13 
+REMARK       I    between atoms: C14_14  and  C15_15 
+REMARK       I    between atoms: C23_25  and  O23_43 
+REMARK       I    between atoms: C26_28  and  C27_29 
+REMARK       I    between atoms: C28_30  and  C29_31 
+REMARK       I    between atoms: C30_32  and  C31_33 
+REMARK       I    between atoms: C32_34  and  C33_35 
+REMARK       I    between atoms: C34_36  and  C35_37 
+ROOT
+HETATM    1  C1  8UH g1620     -34.460 126.875   6.261  1.00 59.27    -0.018 C 
+HETATM    2  C2  8UH g1620     -33.882 126.078   5.101  1.00 64.60     0.045 C 
+HETATM    3  C3  8UH g1620     -32.901 126.836   4.233  1.00 63.28     0.123 C 
+HETATM    4  C4  8UH g1620     -31.799 127.408   5.085  1.00 61.00     0.066 C 
+HETATM    5  C5  8UH g1620     -32.376 128.275   6.167  1.00 64.87    -0.074 C 
+HETATM    6  C6  8UH g1620     -33.572 128.018   6.733  1.00 63.96    -0.048 C 
+HETATM    7  C7  8UH g1620     -34.055 128.823   7.887  1.00 64.82     0.009 C 
+HETATM    8  C8  8UH g1620     -34.698 129.986   7.739  1.00 58.91     0.007 C 
+HETATM    9  C9  8UH g1620     -35.182 130.772   8.874  1.00 59.76    -0.062 C 
+HETATM   10  C10 8UH g1620     -35.881 131.868   8.561  1.00 59.44     0.007 C 
+HETATM   11  C11 8UH g1620     -36.474 132.797   9.504  1.00 53.66     0.001 C 
+HETATM   12  C12 8UH g1620     -37.264 133.685   8.924  1.00 59.47     0.007 C 
+HETATM   13  C13 8UH g1620     -38.002 134.715   9.662  1.00 64.69    -0.062 C 
+HETATM   14  C14 8UH g1620     -38.892 135.437   8.977  1.00 66.67     0.007 C 
+HETATM   15  C15 8UH g1620     -39.711 136.462   9.608  1.00 73.65     0.001 C 
+HETATM   16  C16 8UH g1620     -34.742 125.850   7.355  1.00 56.55     0.020 C 
+HETATM   17  C17 8UH g1620     -35.773 127.496   5.814  1.00 59.14     0.020 C 
+HETATM   18  C18 8UH g1620     -31.440 129.340   6.663  1.00 61.00     0.044 C 
+HETATM   19  C19 8UH g1620     -34.881 130.358  10.283  1.00 55.95     0.048 C 
+HETATM   20  C20 8UH g1620     -37.768 134.923  11.126  1.00 67.83     0.048 C 
+HETATM   21  O3  8UH g1620     -32.334 125.937   3.277  1.00 73.40    -0.395 OA
+ATOM     22  H3  8UH g1620     -31.718 126.413   2.732  1.00  0.00     0.210 HD
+HETATM   23  C21 8UH g1620     -49.693 144.654  10.529  1.00 27.99    -0.018 C 
+HETATM   24  C22 8UH g1620     -50.729 144.525  11.654  1.00 27.99     0.045 C 
+HETATM   25  C23 8UH g1620     -50.161 144.212  13.032  1.00 27.99     0.123 C 
+HETATM   26  C24 8UH g1620     -48.903 145.034  13.234  1.00 27.99     0.066 C 
+HETATM   27  C25 8UH g1620     -47.910 144.498  12.245  1.00 27.99    -0.074 C 
+HETATM   28  C26 8UH g1620     -48.243 144.454  10.949  1.00 27.99    -0.048 C 
+HETATM   29  C27 8UH g1620     -47.297 143.994   9.908  1.00 27.99     0.009 C 
+HETATM   30  C28 8UH g1620     -46.472 142.984  10.216  1.00 27.99     0.007 C 
+HETATM   31  C29 8UH g1620     -45.683 142.319   9.145  1.00 93.82    -0.062 C 
+HETATM   32  C30 8UH g1620     -44.930 141.312   9.582  1.00 83.29     0.007 C 
+HETATM   33  C31 8UH g1620     -44.095 140.480   8.740  1.00 75.18     0.001 C 
+HETATM   34  C32 8UH g1620     -43.309 139.651   9.404  1.00 71.38     0.007 C 
+HETATM   35  C33 8UH g1620     -42.423 138.703   8.724  1.00 70.67    -0.062 C 
+HETATM   36  C34 8UH g1620     -41.590 137.974   9.474  1.00 74.09     0.007 C 
+HETATM   37  C35 8UH g1620     -40.704 136.976   8.894  1.00 74.87     0.001 C 
+HETATM   38  C36 8UH g1620     -49.723 146.102  10.036  1.00 27.99     0.020 C 
+HETATM   39  C37 8UH g1620     -50.093 143.709   9.397  1.00 27.99     0.020 C 
+HETATM   40  C38 8UH g1620     -46.503 144.738  12.717  1.00 27.99     0.044 C 
+HETATM   41  C39 8UH g1620     -45.729 142.725   7.703  1.00 99.93     0.048 C 
+HETATM   42  C40 8UH g1620     -42.488 138.550   7.238  1.00 65.73     0.048 C 
+HETATM   43  O23 8UH g1620     -51.125 144.518  14.048  1.00 27.99    -0.395 OA
+ATOM     44  H23 8UH g1620     -51.913 144.003  13.921  1.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 12
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -37.052 127.999  10.361  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -36.336 126.818  10.256  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -36.554 125.945   9.197  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -37.493 126.241   8.236  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -38.214 127.411   8.327  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -37.992 128.287   9.381  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.173 132.003   7.728  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.125 132.967   9.835  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.428 127.215   5.806  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.251 128.552   6.118  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.177 129.283   5.634  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.247 128.674   4.813  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.399 127.337   4.491  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.487 126.627   4.974  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.182 129.384   4.333  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -37.320 130.132   3.764  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.839      1.629     16.571
+REMARK INTER + INTRA:          -9.638
+REMARK INTER:                  -7.020
+REMARK INTRA:                  -2.618
+REMARK UNBOUND:                -2.799
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C3_3  and  O3_21 
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_12  and  C13_13 
+REMARK       I    between atoms: C14_14  and  C15_15 
+REMARK       I    between atoms: C23_25  and  O23_43 
+REMARK       I    between atoms: C26_28  and  C27_29 
+REMARK       I    between atoms: C28_30  and  C29_31 
+REMARK       I    between atoms: C30_32  and  C31_33 
+REMARK       I    between atoms: C32_34  and  C33_35 
+REMARK       I    between atoms: C34_36  and  C35_37 
+ROOT
+HETATM    1  C1  8UH g1620     -48.982 145.595   8.656  1.00 59.27    -0.018 C 
+HETATM    2  C2  8UH g1620     -50.441 145.908   8.953  1.00 64.60     0.045 C 
+HETATM    3  C3  8UH g1620     -50.870 145.650  10.381  1.00 63.28     0.123 C 
+HETATM    4  C4  8UH g1620     -49.964 146.390  11.330  1.00 61.00     0.066 C 
+HETATM    5  C5  8UH g1620     -48.534 145.998  11.095  1.00 64.87    -0.074 C 
+HETATM    6  C6  8UH g1620     -48.070 145.668   9.872  1.00 63.96    -0.048 C 
+HETATM    7  C7  8UH g1620     -46.622 145.407   9.655  1.00 64.82     0.009 C 
+HETATM    8  C8  8UH g1620     -46.061 144.213   9.873  1.00 58.91     0.007 C 
+HETATM    9  C9  8UH g1620     -44.639 143.954   9.648  1.00 59.76    -0.062 C 
+HETATM   10  C10 8UH g1620     -44.247 142.689   9.829  1.00 59.44     0.007 C 
+HETATM   11  C11 8UH g1620     -42.899 142.183   9.655  1.00 53.66     0.001 C 
+HETATM   12  C12 8UH g1620     -42.833 140.863   9.718  1.00 59.47     0.007 C 
+HETATM   13  C13 8UH g1620     -41.589 140.107   9.546  1.00 64.69    -0.062 C 
+HETATM   14  C14 8UH g1620     -41.688 138.778   9.464  1.00 66.67     0.007 C 
+HETATM   15  C15 8UH g1620     -40.528 137.923   9.256  1.00 73.65     0.001 C 
+HETATM   16  C16 8UH g1620     -48.577 146.565   7.550  1.00 56.55     0.020 C 
+HETATM   17  C17 8UH g1620     -48.891 144.174   8.125  1.00 59.14     0.020 C 
+HETATM   18  C18 8UH g1620     -47.649 146.161  12.298  1.00 61.00     0.044 C 
+HETATM   19  C19 8UH g1620     -43.706 145.061   9.260  1.00 55.95     0.048 C 
+HETATM   20  C20 8UH g1620     -40.271 140.812   9.451  1.00 67.83     0.048 C 
+HETATM   21  O3  8UH g1620     -52.210 146.115  10.555  1.00 73.40    -0.395 OA
+ATOM     22  H3  8UH g1620     -52.480 145.953  11.452  1.00  0.00     0.210 HD
+HETATM   23  C21 8UH g1620     -34.363 126.997   6.064  1.00 27.99    -0.018 C 
+HETATM   24  C22 8UH g1620     -33.377 126.951   4.889  1.00 27.99     0.045 C 
+HETATM   25  C23 8UH g1620     -32.445 128.149   4.772  1.00 27.99     0.123 C 
+HETATM   26  C24 8UH g1620     -31.968 128.528   6.161  1.00 27.99     0.066 C 
+HETATM   27  C25 8UH g1620     -33.189 129.021   6.882  1.00 27.99    -0.074 C 
+HETATM   28  C26 8UH g1620     -34.267 128.230   6.951  1.00 27.99    -0.048 C 
+HETATM   29  C27 8UH g1620     -35.485 128.623   7.695  1.00 27.99     0.009 C 
+HETATM   30  C28 8UH g1620     -35.848 129.912   7.662  1.00 27.99     0.007 C 
+HETATM   31  C29 8UH g1620     -37.184 130.319   8.174  1.00 93.82    -0.062 C 
+HETATM   32  C30 8UH g1620     -37.430 131.621   8.052  1.00 83.29     0.007 C 
+HETATM   33  C31 8UH g1620     -38.667 132.267   8.442  1.00 75.18     0.001 C 
+HETATM   34  C32 8UH g1620     -38.631 133.587   8.387  1.00 71.38     0.007 C 
+HETATM   35  C33 8UH g1620     -39.799 134.413   8.704  1.00 70.67    -0.062 C 
+HETATM   36  C34 8UH g1620     -39.642 135.741   8.721  1.00 74.09     0.007 C 
+HETATM   37  C35 8UH g1620     -40.752 136.645   8.982  1.00 74.87     0.001 C 
+HETATM   38  C36 8UH g1620     -34.005 125.850   7.013  1.00 27.99     0.020 C 
+HETATM   39  C37 8UH g1620     -35.774 126.798   5.516  1.00 27.99     0.020 C 
+HETATM   40  C38 8UH g1620     -32.810 129.981   7.977  1.00 27.99     0.044 C 
+HETATM   41  C39 8UH g1620     -38.175 129.362   8.763  1.00 99.93     0.048 C 
+HETATM   42  C40 8UH g1620     -41.123 133.770   8.968  1.00 65.73     0.048 C 
+HETATM   43  O23 8UH g1620     -31.328 127.829   3.932  1.00 27.99    -0.395 OA
+ATOM     44  H23 8UH g1620     -31.626 127.592   3.062  1.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 12
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -36.366 130.376  11.290  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -35.105 130.658  10.789  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -34.693 131.970  10.591  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -35.539 133.014  10.887  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -36.797 132.752  11.383  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -37.206 131.440  11.588  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.118 132.047   7.692  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.151 132.898   9.809  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.413 127.210   5.832  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.253 128.554   6.123  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.166 129.280   5.661  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.206 128.660   4.885  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.341 127.316   4.584  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.443 126.610   5.045  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.128 129.365   4.428  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.307 129.351   4.906  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.305      1.232     16.516
+REMARK INTER + INTRA:          -9.104
+REMARK INTER:                  -6.982
+REMARK INTRA:                  -2.122
+REMARK UNBOUND:                -2.799
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C3_3  and  O3_21 
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_12  and  C13_13 
+REMARK       I    between atoms: C14_14  and  C15_15 
+REMARK       I    between atoms: C23_25  and  O23_43 
+REMARK       I    between atoms: C26_28  and  C27_29 
+REMARK       I    between atoms: C28_30  and  C29_31 
+REMARK       I    between atoms: C30_32  and  C31_33 
+REMARK       I    between atoms: C32_34  and  C33_35 
+REMARK       I    between atoms: C34_36  and  C35_37 
+ROOT
+HETATM    1  C1  8UH g1620     -48.437 144.618  12.006  1.00 59.27    -0.018 C 
+HETATM    2  C2  8UH g1620     -49.357 145.105  13.115  1.00 64.60     0.045 C 
+HETATM    3  C3  8UH g1620     -48.648 145.625  14.347  1.00 63.28     0.123 C 
+HETATM    4  C4  8UH g1620     -47.669 146.701  13.959  1.00 61.00     0.066 C 
+HETATM    5  C5  8UH g1620     -46.701 146.178  12.936  1.00 64.87    -0.074 C 
+HETATM    6  C6  8UH g1620     -47.054 145.254  12.019  1.00 63.96    -0.048 C 
+HETATM    7  C7  8UH g1620     -46.108 144.852  10.944  1.00 64.82     0.009 C 
+HETATM    8  C8  8UH g1620     -45.177 143.908  11.115  1.00 58.91     0.007 C 
+HETATM    9  C9  8UH g1620     -44.255 143.505  10.054  1.00 59.76    -0.062 C 
+HETATM   10  C10 8UH g1620     -43.440 142.489  10.352  1.00 59.44     0.007 C 
+HETATM   11  C11 8UH g1620     -42.451 141.903   9.467  1.00 53.66     0.001 C 
+HETATM   12  C12 8UH g1620     -41.917 140.795   9.954  1.00 59.47     0.007 C 
+HETATM   13  C13 8UH g1620     -40.914 139.999   9.240  1.00 64.69    -0.062 C 
+HETATM   14  C14 8UH g1620     -40.584 138.817   9.766  1.00 66.67     0.007 C 
+HETATM   15  C15 8UH g1620     -39.629 137.922   9.129  1.00 73.65     0.001 C 
+HETATM   16  C16 8UH g1620     -49.197 144.875  10.708  1.00 56.55     0.020 C 
+HETATM   17  C17 8UH g1620     -48.232 143.121  12.170  1.00 59.14     0.020 C 
+HETATM   18  C18 8UH g1620     -45.377 146.886  12.927  1.00 61.00     0.044 C 
+HETATM   19  C19 8UH g1620     -44.238 144.219   8.736  1.00 55.95     0.048 C 
+HETATM   20  C20 8UH g1620     -40.308 140.497   7.964  1.00 67.83     0.048 C 
+HETATM   21  O3  8UH g1620     -49.617 146.177  15.242  1.00 73.40    -0.395 OA
+ATOM     22  H3  8UH g1620     -49.172 146.503  16.016  1.00  0.00     0.210 HD
+HETATM   23  C21 8UH g1620     -33.721 126.611   6.953  1.00 27.99    -0.018 C 
+HETATM   24  C22 8UH g1620     -33.781 125.931   5.578  1.00 27.99     0.045 C 
+HETATM   25  C23 8UH g1620     -33.621 126.861   4.383  1.00 27.99     0.123 C 
+HETATM   26  C24 8UH g1620     -32.531 127.867   4.697  1.00 27.99     0.066 C 
+HETATM   27  C25 8UH g1620     -33.076 128.714   5.810  1.00 27.99    -0.074 C 
+HETATM   28  C26 8UH g1620     -33.505 128.117   6.929  1.00 27.99    -0.048 C 
+HETATM   29  C27 8UH g1620     -34.000 128.888   8.092  1.00 27.99     0.009 C 
+HETATM   30  C28 8UH g1620     -34.709 129.999   7.849  1.00 27.99     0.007 C 
+HETATM   31  C29 8UH g1620     -35.438 130.670   8.958  1.00 93.82    -0.062 C 
+HETATM   32  C30 8UH g1620     -36.128 131.742   8.573  1.00 83.29     0.007 C 
+HETATM   33  C31 8UH g1620     -36.949 132.552   9.450  1.00 75.18     0.001 C 
+HETATM   34  C32 8UH g1620     -37.407 133.660   8.893  1.00 71.38     0.007 C 
+HETATM   35  C33 8UH g1620     -38.289 134.586   9.609  1.00 70.67    -0.062 C 
+HETATM   36  C34 8UH g1620     -38.621 135.731   9.004  1.00 74.09     0.007 C 
+HETATM   37  C35 8UH g1620     -39.524 136.693   9.617  1.00 74.87     0.001 C 
+HETATM   38  C36 8UH g1620     -32.477 126.086   7.674  1.00 27.99     0.020 C 
+HETATM   39  C37 8UH g1620     -34.976 126.228   7.734  1.00 27.99     0.020 C 
+HETATM   40  C38 8UH g1620     -32.440 130.077   5.804  1.00 27.99     0.044 C 
+HETATM   41  C39 8UH g1620     -35.418 130.190  10.377  1.00 99.93     0.048 C 
+HETATM   42  C40 8UH g1620     -38.812 134.227  10.964  1.00 65.73     0.048 C 
+HETATM   43  O23 8UH g1620     -33.282 126.108   3.211  1.00 27.99    -0.395 OA
+ATOM     44  H23 8UH g1620     -33.965 125.477   3.014  1.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 12
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -37.117 127.989  10.386  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -36.475 126.763  10.305  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -36.754 125.880   9.269  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -37.679 126.211   8.305  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -38.327 127.424   8.373  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -38.044 128.310   9.404  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.039 132.115   7.645  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.183 132.798   9.765  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.389 127.201   5.879  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.225 128.541   6.186  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.116 129.259   5.767  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.136 128.634   5.019  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.275 127.294   4.703  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.398 126.597   5.121  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.036 129.332   4.604  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.765 130.118   5.062  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
