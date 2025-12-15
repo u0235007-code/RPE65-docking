@@ -1,0 +1,480 @@
+MODEL 1
+REMARK VINA RESULT:    -9.373      0.000      0.000
+REMARK INTER + INTRA:         -15.651
+REMARK INTER:                  -9.373
+REMARK INTRA:                  -6.278
+REMARK UNBOUND:                -6.278
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_16  and  C13_17 
+REMARK       I    between atoms: C14_18  and  C15_19 
+REMARK       I    between atoms: C16_20  and  C17_21 
+REMARK       I    between atoms: C18_22  and  C19_23 
+REMARK       I    between atoms: C20_24  and  C21_25 
+REMARK       I    between atoms: C22_26  and  C23_27 
+REMARK       I    between atoms: C24_28  and  C25_29 
+ROOT
+HETATM    1  C1  BCR B 619     -34.699 130.406   7.968  1.00 27.66    -0.020 C 
+HETATM    2  C2  BCR B 619     -33.519 129.604   8.514  1.00 27.98     0.014 C 
+HETATM    3  C3  BCR B 619     -33.000 130.208   9.806  1.00 25.52     0.005 C 
+HETATM    4  C4  BCR B 619     -34.103 130.213  10.857  1.00 19.63     0.034 C 
+HETATM    5  C5  BCR B 619     -35.398 130.820  10.351  1.00 32.40    -0.077 C 
+HETATM    6  C6  BCR B 619     -35.676 130.910   9.031  1.00 20.68    -0.048 C 
+HETATM    7  C7  BCR B 619     -36.960 131.505   8.512  1.00 20.08     0.009 C 
+HETATM    8  C8  BCR B 619     -37.352 132.762   8.792  1.00 22.81     0.007 C 
+HETATM    9  C9  BCR B 619     -38.586 133.390   8.279  1.00 20.22    -0.062 C 
+HETATM   10  C10 BCR B 619     -38.904 134.633   8.706  1.00 19.06     0.007 C 
+HETATM   11  C11 BCR B 619     -40.075 135.397   8.257  1.00 16.29     0.001 C 
+HETATM   12  C33 BCR B 619     -36.361 131.302  11.416  1.00 23.77     0.044 C 
+HETATM   13  C31 BCR B 619     -35.449 129.522   6.976  1.00 21.20     0.020 C 
+HETATM   14  C32 BCR B 619     -34.154 131.625   7.248  1.00 23.33     0.020 C 
+HETATM   15  C34 BCR B 619     -39.407 132.659   7.254  1.00 16.40     0.048 C 
+HETATM   16  C12 BCR B 619     -40.166 136.697   8.587  1.00 25.63     0.007 C 
+HETATM   17  C13 BCR B 619     -41.289 137.592   8.191  1.00 24.60    -0.062 C 
+HETATM   18  C14 BCR B 619     -41.441 138.791   8.829  1.00 21.11     0.007 C 
+HETATM   19  C15 BCR B 619     -42.483 139.800   8.558  1.00 20.94     0.001 C 
+HETATM   20  C16 BCR B 619     -42.698 140.899   9.320  1.00 19.81     0.001 C 
+HETATM   21  C17 BCR B 619     -43.765 141.841   8.926  1.00 20.06     0.007 C 
+HETATM   22  C18 BCR B 619     -44.032 143.027   9.521  1.00 27.17    -0.062 C 
+HETATM   23  C19 BCR B 619     -45.137 143.872   9.003  1.00 20.29     0.007 C 
+HETATM   24  C20 BCR B 619     -45.576 145.021   9.560  1.00 21.61     0.001 C 
+HETATM   25  C21 BCR B 619     -46.699 145.727   8.910  1.00 24.02     0.007 C 
+HETATM   26  C22 BCR B 619     -47.390 146.748   9.466  1.00 35.60    -0.062 C 
+HETATM   27  C23 BCR B 619     -48.416 147.325   8.786  1.00 23.38     0.007 C 
+HETATM   28  C24 BCR B 619     -49.147 148.344   9.267  1.00 28.64     0.009 C 
+HETATM   29  C25 BCR B 619     -50.279 149.047   8.574  1.00 39.14    -0.048 C 
+HETATM   30  C26 BCR B 619     -51.487 148.478   8.359  1.00 29.93    -0.077 C 
+HETATM   31  C27 BCR B 619     -52.600 149.228   7.685  1.00 21.81     0.034 C 
+HETATM   32  C28 BCR B 619     -52.033 150.119   6.603  1.00 31.07     0.005 C 
+HETATM   33  C29 BCR B 619     -51.039 151.095   7.196  1.00 46.92     0.014 C 
+HETATM   34  C30 BCR B 619     -50.007 150.479   8.143  1.00 37.04    -0.020 C 
+HETATM   35  C35 BCR B 619     -42.218 137.141   7.094  1.00 15.93     0.048 C 
+HETATM   36  C36 BCR B 619     -43.260 143.503  10.714  1.00 15.91     0.048 C 
+HETATM   37  C37 BCR B 619     -47.002 147.239  10.830  1.00 38.85     0.048 C 
+HETATM   38  C38 BCR B 619     -51.804 147.074   8.769  1.00 32.51     0.044 C 
+HETATM   39  C39 BCR B 619     -49.960 151.344   9.398  1.00 49.08     0.020 C 
+HETATM   40  C40 BCR B 619     -48.650 150.536   7.461  1.00 46.61     0.020 C 
+ENDROOT
+TORSDOF 10
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -36.771 128.081  10.275  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -37.839 128.045   9.393  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -37.800 127.241   8.261  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -36.692 126.470   7.995  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -35.621 126.497   8.860  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -35.662 127.294   9.996  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.179 131.999   7.733  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.122 132.975   9.838  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.400 127.205   5.857  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.223 128.540   6.181  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.124 129.262   5.743  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.168 128.647   4.957  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.320 127.312   4.623  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.433 126.611   5.061  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.078 129.348   4.523  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.314 129.442   5.081  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.188      2.838      4.859
+REMARK INTER + INTRA:         -14.466
+REMARK INTER:                 -11.748
+REMARK INTRA:                  -2.718
+REMARK UNBOUND:                -6.278
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_16  and  C13_17 
+REMARK       I    between atoms: C14_18  and  C15_19 
+REMARK       I    between atoms: C16_20  and  C17_21 
+REMARK       I    between atoms: C18_22  and  C19_23 
+REMARK       I    between atoms: C20_24  and  C21_25 
+REMARK       I    between atoms: C22_26  and  C23_27 
+REMARK       I    between atoms: C24_28  and  C25_29 
+ROOT
+HETATM    1  C1  BCR B 619     -33.931 126.871   6.856  1.00 27.66    -0.020 C 
+HETATM    2  C2  BCR B 619     -33.100 126.051   5.872  1.00 27.98     0.014 C 
+HETATM    3  C3  BCR B 619     -32.779 126.853   4.625  1.00 25.52     0.005 C 
+HETATM    4  C4  BCR B 619     -31.987 128.100   5.000  1.00 19.63     0.034 C 
+HETATM    5  C5  BCR B 619     -32.632 128.897   6.118  1.00 32.40    -0.077 C 
+HETATM    6  C6  BCR B 619     -33.521 128.340   6.970  1.00 20.68    -0.048 C 
+HETATM    7  C7  BCR B 619     -34.167 129.117   8.089  1.00 20.08     0.009 C 
+HETATM    8  C8  BCR B 619     -34.895 130.231   7.884  1.00 22.81     0.007 C 
+HETATM    9  C9  BCR B 619     -35.568 131.001   8.949  1.00 20.22    -0.062 C 
+HETATM   10  C10 BCR B 619     -36.198 132.149   8.615  1.00 19.06     0.007 C 
+HETATM   11  C11 BCR B 619     -36.939 133.000   9.556  1.00 16.29     0.001 C 
+HETATM   12  C33 BCR B 619     -32.205 130.346   6.226  1.00 23.77     0.044 C 
+HETATM   13  C31 BCR B 619     -33.822 126.212   8.228  1.00 21.20     0.020 C 
+HETATM   14  C32 BCR B 619     -35.377 126.845   6.397  1.00 23.33     0.020 C 
+HETATM   15  C34 BCR B 619     -35.587 130.452  10.348  1.00 16.40     0.048 C 
+HETATM   16  C12 BCR B 619     -37.700 133.995   9.068  1.00 25.63     0.007 C 
+HETATM   17  C13 BCR B 619     -38.512 134.924   9.903  1.00 24.60    -0.062 C 
+HETATM   18  C14 BCR B 619     -38.990 136.075   9.344  1.00 21.11     0.007 C 
+HETATM   19  C15 BCR B 619     -39.816 137.098  10.015  1.00 20.94     0.001 C 
+HETATM   20  C16 BCR B 619     -40.133 138.299   9.477  1.00 19.81     0.001 C 
+HETATM   21  C17 BCR B 619     -40.984 139.225  10.251  1.00 20.06     0.007 C 
+HETATM   22  C18 BCR B 619     -41.469 140.409   9.810  1.00 27.17    -0.062 C 
+HETATM   23  C19 BCR B 619     -42.322 141.228  10.706  1.00 20.29     0.007 C 
+HETATM   24  C20 BCR B 619     -42.785 142.467  10.436  1.00 21.61     0.001 C 
+HETATM   25  C21 BCR B 619     -43.617 143.140  11.454  1.00 24.02     0.007 C 
+HETATM   26  C22 BCR B 619     -43.956 144.449  11.428  1.00 35.60    -0.062 C 
+HETATM   27  C23 BCR B 619     -44.720 144.974  12.422  1.00 23.38     0.007 C 
+HETATM   28  C24 BCR B 619     -45.102 146.261  12.466  1.00 28.64     0.009 C 
+HETATM   29  C25 BCR B 619     -45.959 146.912  13.515  1.00 39.14    -0.048 C 
+HETATM   30  C26 BCR B 619     -45.535 147.149  14.777  1.00 29.93    -0.077 C 
+HETATM   31  C27 BCR B 619     -46.418 147.827  15.786  1.00 21.81     0.034 C 
+HETATM   32  C28 BCR B 619     -47.851 147.388  15.588  1.00 31.07     0.005 C 
+HETATM   33  C29 BCR B 619     -48.314 147.728  14.188  1.00 46.92     0.014 C 
+HETATM   34  C30 BCR B 619     -47.349 147.333  13.069  1.00 37.04    -0.020 C 
+HETATM   35  C35 BCR B 619     -38.778 134.557  11.340  1.00 15.93     0.048 C 
+HETATM   36  C36 BCR B 619     -41.142 140.937   8.446  1.00 15.91     0.048 C 
+HETATM   37  C37 BCR B 619     -43.490 145.304  10.286  1.00 38.85     0.048 C 
+HETATM   38  C38 BCR B 619     -44.175 146.757  15.262  1.00 32.51     0.044 C 
+HETATM   39  C39 BCR B 619     -47.199 148.536  12.143  1.00 49.08     0.020 C 
+HETATM   40  C40 BCR B 619     -47.979 146.192  12.286  1.00 46.61     0.020 C 
+ENDROOT
+TORSDOF 10
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -37.064 127.997  10.365  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -36.342 126.819  10.250  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -36.572 125.944   9.196  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -37.526 126.235   8.248  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -38.253 127.401   8.349  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -38.020 128.279   9.400  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -30.850 132.307   7.558  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.238 132.559   9.627  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.397 127.204   5.863  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.222 128.539   6.185  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.120 129.260   5.752  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.159 128.643   4.974  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.309 127.308   4.642  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.425 126.608   5.074  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.066 129.343   4.545  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.190 129.021   4.720  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.172      2.625     16.736
+REMARK INTER + INTRA:         -14.450
+REMARK INTER:                 -11.316
+REMARK INTRA:                  -3.134
+REMARK UNBOUND:                -6.278
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_16  and  C13_17 
+REMARK       I    between atoms: C14_18  and  C15_19 
+REMARK       I    between atoms: C16_20  and  C17_21 
+REMARK       I    between atoms: C18_22  and  C19_23 
+REMARK       I    between atoms: C20_24  and  C21_25 
+REMARK       I    between atoms: C22_26  and  C23_27 
+REMARK       I    between atoms: C24_28  and  C25_29 
+ROOT
+HETATM    1  C1  BCR B 619     -47.093 147.784  12.150  1.00 27.66    -0.020 C 
+HETATM    2  C2  BCR B 619     -47.906 148.645  13.114  1.00 27.98     0.014 C 
+HETATM    3  C3  BCR B 619     -47.874 148.072  14.518  1.00 25.52     0.005 C 
+HETATM    4  C4  BCR B 619     -46.437 148.014  15.023  1.00 19.63     0.034 C 
+HETATM    5  C5  BCR B 619     -45.494 147.343  14.044  1.00 32.40    -0.077 C 
+HETATM    6  C6  BCR B 619     -45.788 147.235  12.729  1.00 20.68    -0.048 C 
+HETATM    7  C7  BCR B 619     -44.858 146.575  11.742  1.00 20.08     0.009 C 
+HETATM    8  C8  BCR B 619     -44.442 145.301  11.866  1.00 22.81     0.007 C 
+HETATM    9  C9  BCR B 619     -43.558 144.610  10.905  1.00 20.22    -0.062 C 
+HETATM   10  C10 BCR B 619     -43.148 143.355  11.192  1.00 19.06     0.007 C 
+HETATM   11  C11 BCR B 619     -42.300 142.532  10.320  1.00 16.29     0.001 C 
+HETATM   12  C33 BCR B 619     -44.200 146.816  14.630  1.00 23.77     0.044 C 
+HETATM   13  C31 BCR B 619     -46.778 148.626  10.917  1.00 21.20     0.020 C 
+HETATM   14  C32 BCR B 619     -47.938 146.592  11.745  1.00 23.33     0.020 C 
+HETATM   15  C34 BCR B 619     -43.200 145.297   9.617  1.00 16.40     0.048 C 
+HETATM   16  C12 BCR B 619     -42.140 141.230  10.614  1.00 25.63     0.007 C 
+HETATM   17  C13 BCR B 619     -41.320 140.278   9.812  1.00 24.60    -0.062 C 
+HETATM   18  C14 BCR B 619     -40.972 139.076  10.359  1.00 21.11     0.007 C 
+HETATM   19  C15 BCR B 619     -40.180 138.015   9.707  1.00 20.94     0.001 C 
+HETATM   20  C16 BCR B 619     -39.719 136.909  10.338  1.00 19.81     0.001 C 
+HETATM   21  C17 BCR B 619     -38.952 135.913   9.563  1.00 20.06     0.007 C 
+HETATM   22  C18 BCR B 619     -38.517 134.717  10.023  1.00 27.17    -0.062 C 
+HETATM   23  C19 BCR B 619     -37.762 133.817   9.117  1.00 20.29     0.007 C 
+HETATM   24  C20 BCR B 619     -37.184 132.649   9.470  1.00 21.61     0.001 C 
+HETATM   25  C21 BCR B 619     -36.460 131.886   8.433  1.00 24.02     0.007 C 
+HETATM   26  C22 BCR B 619     -35.647 130.833   8.679  1.00 35.60    -0.062 C 
+HETATM   27  C23 BCR B 619     -35.018 130.203   7.651  1.00 23.38     0.007 C 
+HETATM   28  C24 BCR B 619     -34.201 129.151   7.813  1.00 28.64     0.009 C 
+HETATM   29  C25 BCR B 619     -33.486 128.390   6.732  1.00 39.14    -0.048 C 
+HETATM   30  C26 BCR B 619     -32.449 128.898   6.027  1.00 29.93    -0.077 C 
+HETATM   31  C27 BCR B 619     -31.747 128.091   4.973  1.00 21.81     0.034 C 
+HETATM   32  C28 BCR B 619     -32.748 127.226   4.240  1.00 31.07     0.005 C 
+HETATM   33  C29 BCR B 619     -33.452 126.303   5.211  1.00 46.92     0.014 C 
+HETATM   34  C30 BCR B 619     -33.974 126.972   6.484  1.00 37.04    -0.020 C 
+HETATM   35  C35 BCR B 619     -40.906 140.679   8.420  1.00 15.93     0.048 C 
+HETATM   36  C36 BCR B 619     -38.749 134.284  11.438  1.00 15.91     0.048 C 
+HETATM   37  C37 BCR B 619     -35.462 130.366  10.093  1.00 38.85     0.048 C 
+HETATM   38  C38 BCR B 619     -31.930 130.285   6.238  1.00 32.51     0.044 C 
+HETATM   39  C39 BCR B 619     -33.540 126.114   7.667  1.00 49.08     0.020 C 
+HETATM   40  C40 BCR B 619     -35.493 126.982   6.421  1.00 46.61     0.020 C 
+ENDROOT
+TORSDOF 10
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -37.031 128.003  10.354  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -36.234 126.880  10.195  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -36.434 126.011   9.129  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -37.433 126.253   8.214  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -38.235 127.363   8.360  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -38.031 128.236   9.421  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -30.814 132.350   7.546  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.245 132.512   9.595  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.403 127.206   5.851  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.225 128.540   6.176  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.128 129.263   5.733  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.177 128.650   4.940  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.331 127.316   4.605  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.441 126.614   5.048  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.089 129.352   4.501  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.356 129.515   5.082  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.432      0.436     16.590
+REMARK INTER + INTRA:         -12.710
+REMARK INTER:                  -7.346
+REMARK INTRA:                  -5.364
+REMARK UNBOUND:                -6.278
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_16  and  C13_17 
+REMARK       I    between atoms: C14_18  and  C15_19 
+REMARK       I    between atoms: C16_20  and  C17_21 
+REMARK       I    between atoms: C18_22  and  C19_23 
+REMARK       I    between atoms: C20_24  and  C21_25 
+REMARK       I    between atoms: C22_26  and  C23_27 
+REMARK       I    between atoms: C24_28  and  C25_29 
+ROOT
+HETATM    1  C1  BCR B 619     -50.068 150.566   8.208  1.00 27.66    -0.020 C 
+HETATM    2  C2  BCR B 619     -51.264 151.350   7.673  1.00 27.98     0.014 C 
+HETATM    3  C3  BCR B 619     -52.070 150.517   6.694  1.00 25.52     0.005 C 
+HETATM    4  C4  BCR B 619     -52.590 149.262   7.385  1.00 19.63     0.034 C 
+HETATM    5  C5  BCR B 619     -51.504 148.500   8.121  1.00 32.40    -0.077 C 
+HETATM    6  C6  BCR B 619     -50.349 149.091   8.500  1.00 20.68    -0.048 C 
+HETATM    7  C7  BCR B 619     -49.262 148.349   9.236  1.00 20.08     0.009 C 
+HETATM    8  C8  BCR B 619     -48.665 147.247   8.746  1.00 22.81     0.007 C 
+HETATM    9  C9  BCR B 619     -47.577 146.511   9.422  1.00 20.22    -0.062 C 
+HETATM   10  C10 BCR B 619     -47.122 145.370   8.858  1.00 19.06     0.007 C 
+HETATM   11  C11 BCR B 619     -46.025 144.553   9.393  1.00 16.29     0.001 C 
+HETATM   12  C33 BCR B 619     -51.803 147.045   8.415  1.00 23.77     0.044 C 
+HETATM   13  C31 BCR B 619     -49.592 151.248   9.487  1.00 21.20     0.020 C 
+HETATM   14  C32 BCR B 619     -48.963 150.613   7.169  1.00 23.33     0.020 C 
+HETATM   15  C34 BCR B 619     -46.970 147.088  10.670  1.00 16.40     0.048 C 
+HETATM   16  C12 BCR B 619     -45.524 143.565   8.632  1.00 25.63     0.007 C 
+HETATM   17  C13 BCR B 619     -44.406 142.668   9.042  1.00 24.60    -0.062 C 
+HETATM   18  C14 BCR B 619     -44.186 141.517   8.341  1.00 21.11     0.007 C 
+HETATM   19  C15 BCR B 619     -43.124 140.525   8.598  1.00 20.94     0.001 C 
+HETATM   20  C16 BCR B 619     -43.038 139.320   7.986  1.00 19.81     0.001 C 
+HETATM   21  C17 BCR B 619     -41.912 138.428   8.323  1.00 20.06     0.007 C 
+HETATM   22  C18 BCR B 619     -41.633 137.245   7.726  1.00 27.17    -0.062 C 
+HETATM   23  C19 BCR B 619     -40.455 136.461   8.172  1.00 20.29     0.007 C 
+HETATM   24  C20 BCR B 619     -40.121 135.227   7.738  1.00 21.61     0.001 C 
+HETATM   25  C21 BCR B 619     -38.913 134.591   8.303  1.00 24.02     0.007 C 
+HETATM   26  C22 BCR B 619     -38.583 133.289   8.144  1.00 35.60    -0.062 C 
+HETATM   27  C23 BCR B 619     -37.451 132.799   8.714  1.00 23.38     0.007 C 
+HETATM   28  C24 BCR B 619     -37.054 131.521   8.599  1.00 28.64     0.009 C 
+HETATM   29  C25 BCR B 619     -35.811 130.909   9.180  1.00 39.14    -0.048 C 
+HETATM   30  C26 BCR B 619     -35.641 130.687  10.503  1.00 29.93    -0.077 C 
+HETATM   31  C27 BCR B 619     -34.391 130.047  11.037  1.00 21.81     0.034 C 
+HETATM   32  C28 BCR B 619     -33.196 130.511  10.235  1.00 31.07     0.005 C 
+HETATM   33  C29 BCR B 619     -33.374 130.154   8.775  1.00 46.92     0.014 C 
+HETATM   34  C30 BCR B 619     -34.739 130.507   8.180  1.00 37.04    -0.020 C 
+HETATM   35  C35 BCR B 619     -43.556 143.068  10.220  1.00 15.93     0.048 C 
+HETATM   36  C36 BCR B 619     -42.503 136.685   6.642  1.00 15.91     0.048 C 
+HETATM   37  C37 BCR B 619     -39.474 132.403   7.323  1.00 38.85     0.048 C 
+HETATM   38  C38 BCR B 619     -36.668 131.060  11.525  1.00 32.51     0.044 C 
+HETATM   39  C39 BCR B 619     -35.241 129.284   7.421  1.00 49.08     0.020 C 
+HETATM   40  C40 BCR B 619     -34.540 131.646   7.193  1.00 46.61     0.020 C 
+ENDROOT
+TORSDOF 10
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -36.884 128.041  10.306  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -37.966 128.089   9.441  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -38.032 127.248   8.336  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -37.016 126.355   8.083  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -35.934 126.296   8.932  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -35.871 127.132  10.040  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.185 131.994   7.737  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -32.119 132.982   9.840  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.392 127.202   5.873  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.217 128.537   6.198  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.111 129.256   5.774  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.145 128.638   5.003  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.294 127.303   4.669  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.415 126.605   5.091  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.047 129.336   4.583  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -37.143 130.072   3.989  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
+ENDMDL
