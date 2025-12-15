@@ -2,11 +2,13 @@ RPE65 was docked with different classes of ligands: LUT as found in the Protein 
 
 Branches in this repository are for the different molecules and the docking outcomes. Programs for generating the molecules and docking outomes are in the approprate branch.
 
-LUT, The lutein-like ligands as found in PDB structures of photosystems and light harvesting complexes with incorrect 3S stereo-configuration for the beta ionone ring. Dietary (3R, 3'R, 6'R) lutein has 3R configuration for the beta ionone ring. Non-dietary (3S, 3'R, 6'R) LUT ligands in the PDB have 3S configuration for the beta ionone ring.
+LUT, The lutein-like ligands as found in PDB structures of photosystems and light harvesting complexes
 
-LUT/LUT2_nonredundant_ligands, Lutein-like ligands with incorrect 3S beta stereo-configuration, with charges and atom types added by AutoDock Tools and no rotating bonds (rigid ligands).
+LUT/LUT_nonredundant_lutein, Lutein-like ligands as found in PDB structures of photosystems and light harvesting complexeswith incorrect 3S stereo-configuration for the beta ionone ring. Dietary (3R, 3'R, 6'R) lutein has 3R configuration for the beta ionone ring. Non-dietary (3S, 3'R, 6'R) LUT ligands in the PDB have 3S configuration for the beta ionone ring.
 
-LUT/LUT5_nonredundant_ligands, Lutein-like ligands with incorrect 3S beta stereo-configuration, with charges and atom types added by AutoDock Tools and rotating bonds connecting the ionone rings to the polyene chain (two rotating bonds).
+LUT/LUT2_nonredundant_lutein, Lutein-like ligands with incorrect 3S beta stereo-configuration, with charges and atom types added by AutoDock Tools and no rotating bonds (rigid ligands).
+
+LUT/LUT5_nonredundant_lutein, Lutein-like ligands with incorrect 3S beta stereo-configuration, with charges and atom types added by AutoDock Tools and rotating bonds connecting the ionone rings to the polyene chain (two rotating bonds).
 
 beta-carotene, molecules corresponding with beta carotene from the protein data bank
 
