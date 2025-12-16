@@ -1,0 +1,59 @@
+REMARK VINA RESULT:    -8.619      3.369      5.707
+REMARK INTER + INTRA:         -20.445
+REMARK INTER:                 -12.103
+REMARK INTRA:                  -8.341
+REMARK UNBOUND:                -8.298
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C9_8  and  C8_9 
+REMARK    2  A    between atoms: C8_9  and  O1_10 
+REMARK    3  A    between atoms: O1_10  and  C7_11 
+REMARK    4  A    between atoms: C3_16  and  C2_17 
+REMARK    5  A    between atoms: C2_17  and  C1_20 
+REMARK    6  A    between atoms: C2_17  and  O_18 
+REMARK    7  A    between atoms: C1_20  and  C_21 
+REMARK    8  A    between atoms: C_21  and  N_22 
+ROOT
+HETATM    1  C7  XQ7 A 603     -39.979 136.664   7.901  1.00 66.72     0.069 A 
+HETATM    2  C6  XQ7 A 603     -41.279 136.196   7.932  1.00 62.90     0.037 A 
+HETATM    3  C5  XQ7 A 603     -42.053 136.277   6.789  1.00 63.00     0.003 A 
+HETATM    4  C4  XQ7 A 603     -41.536 136.818   5.626  1.00 62.69     0.010 A 
+HETATM    5  C15 XQ7 A 603     -39.453 137.210   6.732  1.00 64.77     0.046 A 
+HETATM    6  C3  XQ7 A 603     -40.237 137.295   5.582  1.00 62.38    -0.027 A 
+ENDROOT
+BRANCH   1   7
+HETATM    7  O1  XQ7 A 603     -39.217 136.579   9.045  1.00 71.35    -0.351 OA
+BRANCH   7   8
+HETATM    8  C8  XQ7 A 603     -39.557 135.635  10.075  1.00 80.50     0.180 C 
+BRANCH   8   9
+HETATM    9  C9  XQ7 A 603     -38.345 134.766  10.339  1.00 85.44     0.010 C 
+HETATM   10  C10 XQ7 A 603     -38.432 134.037  11.675  1.00 88.77     0.013 C 
+HETATM   11  C11 XQ7 A 603     -37.136 133.269  11.947  1.00 92.54     0.079 C 
+HETATM   12  C12 XQ7 A 603     -36.761 132.367  10.808  1.00 93.77     0.243 C 
+HETATM   13  F1  XQ7 A 603     -35.503 131.852  11.029  1.00 90.81    -0.206 F 
+HETATM   14  F   XQ7 A 603     -37.584 131.263  10.812  1.00 97.78    -0.206 F 
+HETATM   15  C13 XQ7 A 603     -36.801 133.011   9.456  1.00 90.87     0.079 C 
+HETATM   16  C14 XQ7 A 603     -38.129 133.737   9.237  1.00 89.05     0.013 C 
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   6  17
+HETATM   17  C2  XQ7 A 603     -39.696 137.885   4.291  1.00 64.70     0.152 C 
+BRANCH  17  18
+HETATM   18  C1  XQ7 A 603     -38.175 138.028   4.278  1.00 63.76     0.064 C 
+BRANCH  18  19
+HETATM   19  C   XQ7 A 603     -37.676 139.459   4.119  1.00 64.49     0.232 C 
+BRANCH  19  20
+HETATM   20  N   XQ7 A 603     -37.293 139.849   2.765  1.00 63.34    -0.079 N 
+ATOM     21  HN1 XQ7 A 603     -36.589 140.584   2.699  1.00  0.00     0.274 HD
+ATOM     22  HN2 XQ7 A 603     -38.123 140.112   2.232  1.00  0.00     0.274 HD
+ATOM     23  HN3 XQ7 A 603     -36.991 139.029   2.239  1.00  0.00     0.274 HD
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+BRANCH  17  24
+HETATM   24  O   XQ7 A 603     -40.120 137.143   3.153  1.00 70.80    -0.391 OA
+ATOM     25  HO  XQ7 A 603     -40.753 137.649   2.656  1.00  0.00     0.210 HD
+ENDBRANCH  17  24
+ENDBRANCH   6  17
+TORSDOF 8
