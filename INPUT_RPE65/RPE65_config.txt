@@ -1,0 +1,9 @@
+receptor= cow_7l0e_chainA_rigid.pdbqt 
+flex= cow_7l0e_chainA_flex.pdbqt
+center_x= -40.6
+center_y= 138.6
+center_z= 11.0
+size_x=   24
+size_y=   25.5
+size_z=   17.25
+
