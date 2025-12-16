@@ -1,0 +1,42 @@
+REMARK VINA RESULT:    -7.996      4.152      5.904
+REMARK INTER + INTRA:         -15.252
+REMARK INTER:                  -7.322
+REMARK INTRA:                  -7.930
+REMARK UNBOUND:                -7.255
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C1_1  and  C2_4 
+REMARK       I    between atoms: C2_4  and  C3_5 
+REMARK       I    between atoms: C3_5  and  C4_6 
+REMARK       I    between atoms: C4_6  and  C5_7 
+REMARK       I    between atoms: C5_7  and  C6_8 
+REMARK       I    between atoms: C6_8  and  C7_9 
+REMARK       I    between atoms: C7_9  and  C8_10 
+REMARK       I    between atoms: C8_10  and  C9_11 
+REMARK       I    between atoms: C9_11  and  CA_12 
+REMARK       I    between atoms: CA_12  and  CB_13 
+REMARK       I    between atoms: CB_13  and  CC_14 
+REMARK       I    between atoms: CC_14  and  CD_15 
+REMARK       I    between atoms: CD_15  and  CE_16 
+REMARK       I    between atoms: CE_16  and  CF_17 
+ROOT
+HETATM    1  C1  PLM B 602     -38.388 139.654   4.243  1.00 63.36     0.172 C 
+HETATM    2  O1  PLM B 602     -38.713 140.102   3.123  1.00 65.45    -0.648 OA
+HETATM    3  O2  PLM B 602     -37.224 139.278   4.544  1.00 57.35    -0.648 OA
+HETATM    4  C2  PLM B 602     -39.475 139.527   5.291  1.00 62.51     0.113 C 
+HETATM    5  C3  PLM B 602     -39.440 138.234   6.027  1.00 63.10     0.010 C 
+HETATM    6  C4  PLM B 602     -40.250 137.134   5.357  1.00 61.23     0.001 C 
+HETATM    7  C5  PLM B 602     -41.529 136.791   6.070  1.00 59.93     0.000 C 
+HETATM    8  C6  PLM B 602     -41.341 136.248   7.465  1.00 58.80     0.000 C 
+HETATM    9  C7  PLM B 602     -42.570 135.598   8.052  1.00 58.71     0.000 C 
+HETATM   10  C8  PLM B 602     -43.822 136.439   7.995  1.00 57.29     0.000 C 
+HETATM   11  C9  PLM B 602     -43.639 137.849   8.488  1.00 58.28     0.000 C 
+HETATM   12  CA  PLM B 602     -44.900 138.658   8.558  1.00 58.29     0.000 C 
+HETATM   13  CB  PLM B 602     -44.650 140.090   8.926  1.00 59.03     0.000 C 
+HETATM   14  CC  PLM B 602     -45.860 140.983   8.862  1.00 60.78     0.000 C 
+HETATM   15  CD  PLM B 602     -45.583 142.446   9.133  1.00 60.58     0.000 C 
+HETATM   16  CE  PLM B 602     -44.517 142.717  10.174  1.00 60.32    -0.000 C 
+HETATM   17  CF  PLM B 602     -43.093 142.711   9.669  1.00 59.80    -0.005 C 
+HETATM   18  CG  PLM B 602     -42.131 143.473  10.543  1.00 60.49     0.005 C 
+ENDROOT
+TORSDOF 14

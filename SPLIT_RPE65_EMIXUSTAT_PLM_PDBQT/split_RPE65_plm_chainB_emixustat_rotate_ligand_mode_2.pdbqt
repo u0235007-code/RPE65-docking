@@ -1,0 +1,70 @@
+REMARK VINA RESULT:    -6.729      0.646      1.259
+REMARK INTER + INTRA:         -21.695
+REMARK INTER:                 -12.358
+REMARK INTRA:                  -9.337
+REMARK UNBOUND:                -9.458
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4 
+REMARK    2  A    between atoms: C2_4  and  C3_5 
+REMARK    3  A    between atoms: C3_5  and  C4_6 
+REMARK    4  A    between atoms: C4_6  and  C5_7 
+REMARK    5  A    between atoms: C5_7  and  C6_8 
+REMARK    6  A    between atoms: C6_8  and  C7_9 
+REMARK    7  A    between atoms: C7_9  and  C8_10 
+REMARK    8  A    between atoms: C8_10  and  C9_11 
+REMARK    9  A    between atoms: C9_11  and  CA_12 
+REMARK   10  A    between atoms: CA_12  and  CB_13 
+REMARK   11  A    between atoms: CB_13  and  CC_14 
+REMARK   12  A    between atoms: CC_14  and  CD_15 
+REMARK   13  A    between atoms: CD_15  and  CE_16 
+REMARK   14  A    between atoms: CE_16  and  CF_17 
+ROOT
+HETATM    1  C7  PLM B 602     -41.990 135.449   8.359  1.00 58.71     0.000 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C6  PLM B 602     -42.570 136.386   7.327  1.00 58.80     0.000 C 
+BRANCH   2   3
+HETATM    3  C5  PLM B 602     -41.772 137.647   7.112  1.00 59.93     0.000 C 
+BRANCH   3   4
+HETATM    4  C4  PLM B 602     -41.202 137.796   5.728  1.00 61.23     0.001 C 
+BRANCH   4   5
+HETATM    5  C3  PLM B 602     -39.681 137.825   5.683  1.00 63.10     0.010 C 
+BRANCH   5   6
+HETATM    6  C2  PLM B 602     -39.126 137.633   4.316  1.00 62.51     0.113 C 
+BRANCH   6   7
+HETATM    7  C1  PLM B 602     -38.084 138.667   3.937  1.00 63.36     0.172 C 
+HETATM    8  O1  PLM B 602     -36.886 138.389   4.156  1.00 65.45    -0.648 OA
+HETATM    9  O2  PLM B 602     -38.480 139.759   3.447  1.00 57.35    -0.648 OA
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  10
+HETATM   10  C8  PLM B 602     -40.624 134.902   8.023  1.00 57.29     0.000 C 
+BRANCH  10  11
+HETATM   11  C9  PLM B 602     -39.561 135.241   9.033  1.00 58.28     0.000 C 
+BRANCH  11  12
+HETATM   12  CA  PLM B 602     -40.078 135.803  10.324  1.00 58.29     0.000 C 
+BRANCH  12  13
+HETATM   13  CB  PLM B 602     -39.413 135.199  11.526  1.00 59.03     0.000 C 
+BRANCH  13  14
+HETATM   14  CC  PLM B 602     -38.002 134.726  11.301  1.00 60.78     0.000 C 
+BRANCH  14  15
+HETATM   15  CD  PLM B 602     -37.674 133.388  11.927  1.00 60.58     0.000 C 
+BRANCH  15  16
+HETATM   16  CE  PLM B 602     -37.215 132.319  10.958  1.00 60.32    -0.000 C 
+BRANCH  16  17
+HETATM   17  CF  PLM B 602     -37.078 132.757   9.518  1.00 59.80    -0.005 C 
+HETATM   18  CG  PLM B 602     -37.698 131.806   8.528  1.00 60.49     0.005 C 
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 14
