@@ -1,0 +1,58 @@
+BEGIN_RES PHE A  61
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA   and  CB  
+REMARK    2  A    between atoms: CB   and  CG  
+ROOT
+ATOM      1  CA  PHE A  61     -36.237 128.293  12.768  1.00 39.40     0.164 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  PHE A  61     -36.813 128.951  11.509  1.00 39.41     0.058 C 
+BRANCH   2   3
+ATOM      3  CG  PHE A  61     -36.590 128.167  10.238  1.00 39.01    -0.020 A 
+ATOM      4  CD2 PHE A  61     -35.394 127.504  10.011  1.00 40.32    -0.004 A 
+ATOM      5  CE2 PHE A  61     -35.189 126.786   8.839  1.00 40.20    -0.000 A 
+ATOM      6  CZ  PHE A  61     -36.178 126.720   7.884  1.00 40.34    -0.000 A 
+ATOM      7  CE1 PHE A  61     -37.373 127.372   8.095  1.00 41.51    -0.000 A 
+ATOM      8  CD1 PHE A  61     -37.576 128.095   9.264  1.00 39.94    -0.004 A 
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES PHE A  61
+BEGIN_RES VAL A 134
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    3  A    between atoms: CA   and  CB  
+ROOT
+ATOM      9  CA  VAL A 134     -29.766 132.051   9.815  1.00 40.75     0.159 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CB  VAL A 134     -30.864 132.765   9.009  1.00 40.76     0.029 C 
+ATOM     11  CG1 VAL A 134     -31.918 133.350   9.937  1.00 41.76     0.002 C 
+ATOM     12  CG2 VAL A 134     -30.285 133.840   8.102  1.00 40.56     0.002 C 
+ENDBRANCH   9  10
+END_RES VAL A 134
+BEGIN_RES TYR A 338
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    4  A    between atoms: CA   and  CB  
+REMARK    5  A    between atoms: CB   and  CG  
+REMARK    6  A    between atoms: CZ   and  OH  
+ROOT
+ATOM     13  CA  TYR A 338     -41.631 124.950   6.058  1.00 38.23     0.164 C 
+ENDROOT
+BRANCH  13  14
+ATOM     14  CB  TYR A 338     -41.621 126.456   6.339  1.00 39.15     0.058 C 
+BRANCH  14  15
+ATOM     15  CG  TYR A 338     -40.391 127.202   5.874  1.00 39.03    -0.020 A 
+ATOM     16  CD2 TYR A 338     -40.208 128.531   6.215  1.00 40.65    -0.002 A 
+ATOM     17  CE2 TYR A 338     -39.100 129.250   5.793  1.00 40.91     0.024 A 
+ATOM     18  CZ  TYR A 338     -38.142 128.637   5.008  1.00 42.33     0.089 A 
+ATOM     19  CE1 TYR A 338     -38.301 127.308   4.658  1.00 40.63     0.024 A 
+ATOM     20  CD1 TYR A 338     -39.422 126.610   5.079  1.00 39.27    -0.002 A 
+BRANCH  18  21
+ATOM     21  OH  TYR A 338     -37.044 129.335   4.590  1.00 43.36    -0.359 OA
+ATOM     22  HH  TYR A 338     -36.209 128.896   4.479  1.00  0.00     0.217 HD
+ENDBRANCH  18  21
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+END_RES TYR A 338
