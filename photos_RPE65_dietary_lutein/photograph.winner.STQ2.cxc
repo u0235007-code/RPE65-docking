@@ -1,0 +1,33 @@
+# chimera script to photograph multiple examples of docking outcomes
+hide #!4-83 models
+view chunnel
+show #!4-5 models
+save photos_RPE65_dietary_lutein/STQ2_model04_chunnel_clip.png supersample 3
+hide #!4-5 models
+show #!6-7 models
+save photos_RPE65_dietary_lutein/STQ2_model06_chunnel_clip.png supersample 3
+hide #!6-7 models
+show #!8-9 models
+save photos_RPE65_dietary_lutein/STQ2_model08_chunnel_clip.png supersample 3
+hide #!8-9 models
+show #!10-11 models
+save photos_RPE65_dietary_lutein/STQ2_model10_chunnel_clip.png supersample 3
+hide #!10-11 models
+show #!12-13 models
+save photos_RPE65_dietary_lutein/STQ2_model12_chunnel_clip.png supersample 3
+hide #!12-13 models
+show #!14-15 models
+save photos_RPE65_dietary_lutein/STQ2_model14_chunnel_clip.png supersample 3
+hide #!14-15 models
+show #!16-17 models
+save photos_RPE65_dietary_lutein/STQ2_model16_chunnel_clip.png supersample 3
+hide #!16-17 models
+show #!18-19 models
+save photos_RPE65_dietary_lutein/STQ2_model18_chunnel_clip.png supersample 3
+hide #!18-19 models
+show #!20-21 models
+save photos_RPE65_dietary_lutein/STQ2_model20_chunnel_clip.png supersample 3
+hide #!20-21 models
+show #!22-23 models
+save photos_RPE65_dietary_lutein/STQ2_model22_chunnel_clip.png supersample 3
+# hide #!22-23 models
