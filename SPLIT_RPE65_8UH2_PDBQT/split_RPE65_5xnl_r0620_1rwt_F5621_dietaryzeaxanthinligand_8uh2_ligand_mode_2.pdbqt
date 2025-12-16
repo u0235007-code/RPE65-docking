@@ -1,0 +1,66 @@
+REMARK VINA RESULT:   -11.160      0.450     16.509
+REMARK INTER + INTRA:         -11.873
+REMARK INTER:                 -11.382
+REMARK INTRA:                  -0.492
+REMARK UNBOUND:                -0.713
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: C3_3  and  O3_21 
+REMARK       I    between atoms: C6_6  and  C7_7 
+REMARK       I    between atoms: C8_8  and  C9_9 
+REMARK       I    between atoms: C10_10  and  C11_11 
+REMARK       I    between atoms: C12_12  and  C13_13 
+REMARK       I    between atoms: C14_14  and  C15_15 
+REMARK       I    between atoms: C23_25  and  O23_43 
+REMARK       I    between atoms: C26_28  and  C27_29 
+REMARK       I    between atoms: C28_30  and  C29_31 
+REMARK       I    between atoms: C30_32  and  C31_33 
+REMARK       I    between atoms: C32_34  and  C33_35 
+REMARK       I    between atoms: C34_36  and  C35_37 
+ROOT
+HETATM    1  C1  8UH r 620     -50.284 144.755   9.986  1.00 48.79    -0.018 C 
+HETATM    2  C2  8UH r 620     -50.956 144.938  11.340  1.00 49.38     0.045 C 
+HETATM    3  C3  8UH r 620     -50.987 146.351  11.919  1.00 51.85     0.123 C 
+HETATM    4  C4  8UH r 620     -49.666 147.088  11.779  1.00 54.16     0.066 C 
+HETATM    5  C5  8UH r 620     -48.817 146.684  10.605  1.00 52.93    -0.074 C 
+HETATM    6  C6  8UH r 620     -49.004 145.567   9.883  1.00 53.44    -0.048 C 
+HETATM    7  C7  8UH r 620     -47.951 145.112   8.933  1.00 56.18     0.009 C 
+HETATM    8  C8  8UH r 620     -47.077 144.153   9.248  1.00 54.04     0.007 C 
+HETATM    9  C9  8UH r 620     -46.041 143.669   8.327  1.00 57.87    -0.062 C 
+HETATM   10  C10 8UH r 620     -45.173 142.795   8.827  1.00 59.37     0.007 C 
+HETATM   11  C11 8UH r 620     -44.095 142.181   8.071  1.00 54.77     0.001 C 
+HETATM   12  C12 8UH r 620     -43.489 141.207   8.726  1.00 53.15     0.007 C 
+HETATM   13  C13 8UH r 620     -42.398 140.410   8.169  1.00 52.91    -0.062 C 
+HETATM   14  C14 8UH r 620     -42.017 139.369   8.902  1.00 56.79     0.007 C 
+HETATM   15  C15 8UH r 620     -40.980 138.450   8.477  1.00 60.51     0.001 C 
+HETATM   16  C16 8UH r 620     -51.252 145.145   8.880  1.00 50.92     0.020 C 
+HETATM   17  C17 8UH r 620     -49.969 143.273   9.814  1.00 48.05     0.020 C 
+HETATM   18  C18 8UH r 620     -47.478 147.338  10.727  1.00 55.82     0.044 C 
+HETATM   19  C19 8UH r 620     -45.970 144.119   6.901  1.00 58.46     0.048 C 
+HETATM   20  C20 8UH r 620     -41.771 140.728   6.846  1.00 55.54     0.048 C 
+HETATM   21  O3  8UH r 620     -52.052 147.134  11.364  1.00 50.70    -0.395 OA
+ATOM     22  H3  8UH r 620     -52.879 146.673  11.452  1.00  0.00     0.210 HD
+HETATM   23  C21 8UH r 620     -34.111 128.383   7.064  1.00 20.77    -0.018 C 
+HETATM   24  C22 8UH r 620     -33.371 127.841   5.831  1.00 19.21     0.045 C 
+HETATM   25  C23 8UH r 620     -31.954 128.311   5.512  1.00 20.68     0.123 C 
+HETATM   26  C24 8UH r 620     -31.367 129.354   6.471  1.00 17.77     0.066 C 
+HETATM   27  C25 8UH r 620     -32.209 130.012   7.515  1.00 19.05    -0.074 C 
+HETATM   28  C26 8UH r 620     -33.490 129.598   7.827  1.00 19.48    -0.048 C 
+HETATM   29  C27 8UH r 620     -34.367 130.232   8.850  1.00 16.56     0.009 C 
+HETATM   30  C28 8UH r 620     -35.086 131.372   8.666  1.00 15.55     0.007 C 
+HETATM   31  C29 8UH r 620     -35.914 132.049   9.622  1.00 46.41    -0.062 C 
+HETATM   32  C30 8UH r 620     -36.843 132.841   9.108  1.00 51.67     0.007 C 
+HETATM   33  C31 8UH r 620     -37.792 133.612   9.875  1.00 48.57     0.001 C 
+HETATM   34  C32 8UH r 620     -38.328 134.571   9.150  1.00 50.80     0.007 C 
+HETATM   35  C33 8UH r 620     -39.321 135.495   9.684  1.00 54.69    -0.062 C 
+HETATM   36  C34 8UH r 620     -39.784 136.423   8.850  1.00 55.71     0.007 C 
+HETATM   37  C35 8UH r 620     -40.786 137.389   9.246  1.00 57.66     0.001 C 
+HETATM   38  C36 8UH r 620     -34.197 127.157   8.008  1.00 20.67     0.020 C 
+HETATM   39  C37 8UH r 620     -35.541 128.712   6.588  1.00 19.98     0.020 C 
+HETATM   40  C38 8UH r 620     -31.433 131.131   8.117  1.00 17.40     0.044 C 
+HETATM   41  C39 8UH r 620     -35.739 131.855  11.094  1.00 47.78     0.048 C 
+HETATM   42  C40 8UH r 620     -39.759 135.388  11.110  1.00 56.30     0.048 C 
+HETATM   43  O23 8UH r 620     -31.074 127.197   5.387  1.00 20.33    -0.395 OA
+ATOM     44  H23 8UH r 620     -30.192 127.490   5.189  1.00  0.00     0.210 HD
+ENDROOT
+TORSDOF 12
