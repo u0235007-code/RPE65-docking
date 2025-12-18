@@ -1,0 +1,8 @@
+A. Name: Experiment ID, Description: Serial index values distinguishing each experiment
+B. Name: Experiment class, Description: Type of experiment
+C. Name: DNA-1, Description: Name of the plasmid DNA encoding the RPE65 enzyme or GFP control
+D. Name: DNA-2, Description: Name of the second plasmid DNA encoding a xanthophyl-interacting protein or GFP control
+E. Name: Trial, Description: Index value distinguishing each biological replicate
+F. Name: L, Description: Integrated peak area for lutein (L)
+G. Name: MZ, Description: Integrated peak area for meso-zeaxanthin (MZ)
+H. Name: MZ to L ratio (10^-4), Description: MZ normalized by L and scaled by 10 000 calculated with the formula =1E4 x MZ / L
