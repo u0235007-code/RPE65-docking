@@ -1,6 +1,14 @@
-RPE65 was docked with different classes of ligands: LUT as found in the Protein Data Bank, dietary lutein (L), meso-zeaxanthin (MZ), dietary zeaxanthin (Z), beta-carotene, and the chemical compound difluoro-emisustat. L, MZ, and Z belong to the family of molecules called xanthophylls. L, MZ, Z, and beta-carotene belong to the family of molecules called carotenoids. The molecular docking was accomplished with AutoDock VINA. A research artical describing the molecules and results of docking will be submitted for review DEC 2025.
+REP65 is an enzyme belonging to the carotenoid cleavage oxygenase family that also includes BCO1, BCO2, NINA and others. RPE65 is well known to contribute to the visual cycle which ensures recycling of the visual pigment. As part of the visual cycle, RPE65 cleaves retinol esterified with palmitate to generate 11-cis retinol that will be loaded into rhodopsin after oxidation to retinal. The current study investigates a second ezyme function of RPE65. As described by Shyam et al 2017 PNAS, RPE65 is thought to catalyze isomerization of lutein (L) to meso-zeaxanthin (MZ). The source of MZ in the human eye is a long standing mystery. 
 
-Branches in this repository are for the different molecules and the docking outcomes. Programs for generating the molecules and docking outomes are in the approprate branch.
+RPE65 was docked with different classes of ligands: LUT as found in the Protein Data Bank, dietary lutein (L), meso-zeaxanthin (MZ), dietary zeaxanthin (Z), beta-carotene, and the chemical compound difluoro-emixustat. L, MZ, and Z belong to the family of molecules called xanthophylls. L, MZ, Z, and beta-carotene belong to the family of molecules called carotenoids. The molecular docking was accomplished with AutoDock VINA. A research artical describing the molecules and results of docking was submitted for review 10DEC 2025 and the pre-print for this article can be found on BioRxiv: doi: https://doi.org/10.64898/2025.12.10.693550 
+
+Branches in this repository are for the different molecules and the docking outcomes. Programs and scripts for generating the molecules and docking outomes are in the approprate branch. One branch is reserved for the data measured with cell culture expression of the enzyme RPE65 from different species and with amino acid substitutions. Below, each branch is defined and briefly described.
+
+cell-culture, data collected for MZ and L extracted from cell cultures expressing REP65 from different species, with amino acid substitution, and co-expressed with different xanthophyll interacting proteins.
+
+RPE65-input, structure of the protein RPE65 prepared for docking with charges and atom type added by AutoDock Tools, and partitioned into rigid receptor and its flexible side chains.
+
+docking-outcomes, molecules as docked to the receptor RPE65 by AutoDock VINA as well as the analyses relating to these docking outcomes as extracted by the R program Binding.Energy.Analysis.R
 
 LUT, The lutein-like ligands as found in PDB structures of photosystems and light harvesting complexes
 
@@ -58,8 +66,6 @@ dietary-zeaxanthin/8UH5, Dietary (3R, 3'R) zeaxanthin derived by merging two die
 
 emixustat, molecules found in the substrate tunnel of RPE65 (PDB ID 7l0e). These include difluoro-emisustat and palmitate.
 
-RPE65-input, structure of the protein RPE65 prepared for docking with charges and atom type added by AutoDock Tools, and partitioned into rigid receptor and its flexible side chains.
 
-docking-outcomes, molecules as docked to the receptor RPE65 by AutoDock VINA as well as the analyses relating to these docking outcomes as extracted by the R program Binding.Energy.Analysis.R
 
 
